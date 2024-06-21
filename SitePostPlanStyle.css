@@ -1,0 +1,230 @@
+html {
+    background-color: paleturquoise;
+    overflow-y: 2325px;}
+body {
+    display: block;
+    padding: 0px;
+    margin-left: 100px;
+    margin-top: 0px;
+    width: 950px;
+    height: 2325px;
+    background-color: transparent;}
+
+
+.letreiro{
+    position: relative;
+    width: 950px;
+    height: 170px;
+    margin: 0px;
+    padding: 0px;}
+ 
+   
+
+.titulo{
+    position: absolute;
+    bottom: 350px;
+    left: 110px;
+    padding: 0px;
+    margin: 0px;
+    width: 450px;
+    height: 53px;
+    background-color: transparent;}
+
+.descricao{
+    position: absolute;
+    text-align: center;
+    left: 190px;
+    bottom: 260px;
+    padding: 07px;
+    margin: 0px;
+    width: 750px;
+    height: 45px;
+    background-color: powderblue;
+    border-radius: 15px;} 
+
+#container{
+    position: absolute;
+    left: 105px;
+    top: 280px;
+    padding: 0px;
+    margin: 0px;
+    width: 290px;
+    height: 420px;
+    border: 1px solid black;
+    border-radius: 15px;}
+    .LateralEsquerda{
+    position: relative;
+    text-align: center;
+    left: 02px;
+    top: 05px;
+    padding: 08px;
+    margin: 0px;
+    width: 270px;
+    height: 27px;
+    background-color: transparent;
+    border-radius: 15px;
+    border-bottom: 2px solid teal;}
+    .Barra1{
+        position: relative;
+        text-align: center;
+        left: 02px;
+        top: 10px;
+        padding: 03px;
+        margin: 0px;
+        width: 260px;
+        height: 25px;
+        background-color: transparent;
+        border-radius: 15px;
+        border-bottom: 2px solid teal;}
+    .Barra2.Barra3.Barra4.Barra5{
+    position: relative;
+    text-align: center;
+    left: 06px;
+    top: 10px;
+    padding: 08px;
+    margin: 0px;
+    width: 270px;
+    height: 90px;}
+    
+
+
+
+
+.PostPlan{
+    position: absolute;
+    left: 410px;
+    top: 280px;
+    padding: 08px;
+    margin: 0px;
+    width: 600px;
+    height: 1890px;
+    background-color: white;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkturquoise;}
+    .texto1{
+        position: absolute;
+        text-align: justify;
+        top: 320px;}
+        .texto2{
+            position: absolute;
+            text-align: justify;
+            top: 830px}
+            .texto3{
+                position: absolute;
+                text-align: center;
+                left: 150px;
+                top: 1630px;
+                border-bottom: 8px mediumturquoise double;
+                border-right: 8px mediumturquoise double;}
+
+
+
+
+
+/*traço parte do diamante texto a baixo*/
+.traço1{
+    position: absolute;
+    top: 1040px;
+    left: 60px;}
+    .traço2{
+        position: absolute;
+        top: 1420px;
+        left: 60px;}
+/*traço parte do diamante texto a baixo*/
+
+
+
+.cartazPRATA{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    top: 1100px;
+    width: 190px;
+    height: 290px;
+    left: 12px;
+    border: 2px black solid;}
+
+    .cartazOURO{
+        position: absolute;
+        margin: 0px;
+        padding: 0px;
+        top: 1100px;
+        width: 190px;
+        height: 290px;
+        left: 212px;
+        border: 2px black solid;}
+
+        .cartazDIAMANTE{
+            position: absolute;
+            margin: 0px;
+            padding: 0px;
+            top: 1100px;
+            width: 190px;
+            height: 290px;
+            left: 412px;
+            border: 2px black solid;}
+
+
+
+
+
+
+#bloco2{
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    width: 200px;
+    height: 250px;
+    margin: 0px;
+    padding: 0px;
+    left: 190px;
+    border-bottom: 3px black solid;
+    border-right: 3px black solid;}
+    .floragua1{
+        position: relative;
+        width:200px;
+        height: 230px;
+        margin: 0px;
+        padding: 0px;}
+        .textoimagem1{
+            position: relative;
+            bottom: 20px;}
+
+
+
+            #bloco3{
+                position: absolute;
+                text-align: center;
+                top: 580px;
+                width: 325px;
+                height: 230px;
+                margin: 0px;
+                padding: 0px;
+                left: 150px;
+                border-bottom: 3px black solid;
+                border-right: 3px black solid;}
+                .diamante1{
+                    position: relative;
+                    width: 325px;
+                    height: 210px;
+                    margin: 0px;
+                    padding: 0px;}
+                    .textoimagem2{
+                        position: relative;
+                        bottom: 15px;}
+
+
+
+.rodapé{
+    position: absolute;
+    text-align: center;
+    left: 385px;
+    top: 2200px;
+    border: solid;
+    border-width: 2px;
+    border-color: darkturquoise;
+    background-color: white;}
+
+

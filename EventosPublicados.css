@@ -1,0 +1,188 @@
+html {
+    background-color: paleturquoise;
+    overflow-y: 2325px;}
+body {
+    display: block;
+    padding: 0px;
+    margin-left: 100px;
+    margin-top: 0px;
+    width: 950px;
+    height: 2325px;
+    background-color: transparent;}
+
+
+.letreiro{
+    position: relative;
+    width: 950px;
+    height: 170px;
+    margin: 0px;
+    padding: 0px;}
+     
+       
+    
+.titulo{
+    position: absolute;
+    bottom: 350px;
+    left: 110px;
+    padding: 0px;
+    margin: 0px;
+    width: 450px;
+    height: 53px;
+    background-color: transparent;}
+    
+.descricao{
+    position: absolute;
+    text-align: center;
+    left: 190px;
+    bottom: 260px;
+    padding: 07px;
+    margin: 0px;
+    width: 750px;
+    height: 45px;
+    background-color: powderblue;
+    border-radius: 15px;} 
+
+
+
+
+    #container{
+        position: absolute;
+        left: 105px;
+        top: 280px;
+        padding: 0px;
+        margin: 0px;
+        width: 290px;
+        height: 420px;
+        border: 1px solid black;
+        border-radius: 15px;}
+        .LateralEsquerda{
+        position: relative;
+        text-align: center;
+        left: 02px;
+        top: 05px;
+        padding: 08px;
+        margin: 0px;
+        width: 270px;
+        height: 27px;
+        background-color: transparent;
+        border-radius: 15px;
+        border-bottom: 2px solid teal;}
+        .Barra2{
+            position: relative;
+            text-align: center;
+            left: 02px;
+            top: 10px;
+            padding: 03px;
+            margin: 0px;
+            width: 260px;
+            height: 25px;
+            background-color: transparent;
+            border-radius: 15px;
+            border-bottom: 2px solid teal;}
+        .Barra1.Barra3.Barra4.Barra5{
+        position: relative;
+        text-align: center;
+        left: 06px;
+        top: 10px;
+        padding: 08px;
+        margin: 0px;
+        width: 270px;
+        height: 90px;}
+
+
+
+
+.PostPlan{
+    position: absolute;
+    left: 410px;
+    top: 280px;
+    padding: 08px;
+    margin: 0px;
+    width: 600px;
+    height: 1890px;
+    background-color: white;
+    border-radius: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkturquoise;}
+            .texto1{
+                position: absolute;
+                text-align: justify;
+                top: 320px;}
+   
+
+.moldura1{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    width: 380px;
+    height: 200px;
+    top: 40px;
+    left: 120px;}             
+
+
+            
+
+/*traço parte do diamante texto a baixo*/
+.traço1{
+    position: absolute;
+    top: 238px;
+    left: 60px;}
+    .textotraço1{
+        position: absolute;
+        text-align: left;
+        top: 250px;
+        left: 50px;}
+
+    .traço2{
+        position: absolute;
+        top: 420px;
+        left: 60px;}
+        .textotraço2{
+            position: absolute;
+            text-align: left;
+            top: 430px;
+            left: 50px;}
+
+        .traço3{
+            position: absolute;
+            top: 620px;
+            left: 60px;}
+            .traço4{
+                position: absolute;
+                top: 720px;
+                left: 60px;}
+                .traço5{
+                    position: absolute;
+                    top: 920px;
+                    left: 60px;}
+/*traço parte do diamante texto a baixo*/
+
+
+
+
+.rodapé{
+    position: absolute;
+    text-align: center;
+    left: 345px;
+    top: 2200px;
+    border: solid;
+    border-width: 2px;
+    border-color: darkturquoise;
+    background-color: white;}
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
